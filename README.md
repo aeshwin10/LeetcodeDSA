@@ -30,3 +30,11 @@
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1046-max-consecutive-ones-iii) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0338-counting-bits) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0338-counting-bits) |
