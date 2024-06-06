@@ -59,3 +59,19 @@
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1370-count-number-of-nice-subarrays) |
+# Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
+# Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
+# Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
+# Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
