@@ -28,7 +28,8 @@ public:
     }
 };
 */
-
+//Iterative Solution:  TC -> O(2N) for each element first inserting, then coming back.
+//                     SC -> O(N) inserting atmost N elements into the stack.
 class Solution {
 public:
     vector<int> postorderTraversal(TreeNode* root) {
