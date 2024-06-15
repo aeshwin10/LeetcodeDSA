@@ -37,6 +37,7 @@
 # Array
 |  |
 | ------- |
+| [0932-monotonic-array](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0932-monotonic-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
