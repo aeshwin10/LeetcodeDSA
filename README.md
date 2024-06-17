@@ -21,6 +21,7 @@
 | [0076-minimum-window-substring](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0076-minimum-window-substring) |
 | [0409-longest-palindrome](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
 | [0889-buddy-strings](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0889-buddy-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 # Sliding Window
@@ -60,6 +61,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0338-counting-bits) |
+| [0678-valid-parenthesis-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
 # Tree
 |  |
 | ------- |
@@ -151,6 +154,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0890-lemonade-change) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 # Two Pointers
