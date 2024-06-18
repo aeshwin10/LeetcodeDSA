@@ -38,6 +38,7 @@
 # Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0932-monotonic-array) |
@@ -59,6 +60,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
@@ -152,6 +154,7 @@
 # Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
