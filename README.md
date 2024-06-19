@@ -43,6 +43,7 @@
 | [0056-merge-intervals](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0932-monotonic-array) |
@@ -68,6 +69,7 @@
 | [0055-jump-game](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
 # Bit Manipulation
 |  |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 # Greedy
@@ -164,6 +167,7 @@
 | [0055-jump-game](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0890-lemonade-change) |
