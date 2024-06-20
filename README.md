@@ -45,6 +45,7 @@
 | [0135-candy](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0932-monotonic-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0966-binary-subarrays-with-sum) |
@@ -159,6 +160,7 @@
 | [0056-merge-intervals](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0561-array-partition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 # Greedy
 |  |
@@ -169,6 +171,7 @@
 | [0409-longest-palindrome](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0890-lemonade-change) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -176,3 +179,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0455-assign-cookies) |
+# Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0561-array-partition) |
