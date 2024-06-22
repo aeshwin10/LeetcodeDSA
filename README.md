@@ -14,6 +14,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 # String
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 # Binary Search
 |  |
 | ------- |
@@ -162,6 +164,7 @@
 | [0455-assign-cookies](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0561-array-partition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 # Greedy
 |  |
 | ------- |
@@ -175,6 +178,7 @@
 | [0678-valid-parenthesis-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0890-lemonade-change) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 # Two Pointers
 |  |
 | ------- |
@@ -183,3 +187,11 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0561-array-partition) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+# Simulation
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
