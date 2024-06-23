@@ -82,6 +82,7 @@
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2715-k-items-with-the-maximum-sum) |
 # Stack
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 | [0890-lemonade-change](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0890-lemonade-change) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2715-k-items-with-the-maximum-sum) |
 # Two Pointers
 |  |
 | ------- |
