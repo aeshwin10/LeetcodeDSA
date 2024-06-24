@@ -82,6 +82,7 @@
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [2650-split-with-minimum-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2650-split-with-minimum-sum) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2715-k-items-with-the-maximum-sum) |
 # Stack
 |  |
@@ -166,6 +167,7 @@
 | [0561-array-partition](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0561-array-partition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2650-split-with-minimum-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2650-split-with-minimum-sum) |
 # Greedy
 |  |
 | ------- |
@@ -180,6 +182,7 @@
 | [0890-lemonade-change](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0890-lemonade-change) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2650-split-with-minimum-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2650-split-with-minimum-sum) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2715-k-items-with-the-maximum-sum) |
 # Two Pointers
 |  |
