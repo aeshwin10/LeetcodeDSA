@@ -25,6 +25,7 @@
 | [0678-valid-parenthesis-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
 | [0889-buddy-strings](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0889-buddy-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 # Sliding Window
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 # Binary Search
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 | [0338-counting-bits](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -184,6 +187,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2650-split-with-minimum-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2650-split-with-minimum-sum) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2715-k-items-with-the-maximum-sum) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 # Two Pointers
 |  |
 | ------- |
