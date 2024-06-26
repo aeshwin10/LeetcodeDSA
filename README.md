@@ -25,6 +25,7 @@
 | [0678-valid-parenthesis-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0678-valid-parenthesis-string) |
 | [0889-buddy-strings](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0889-buddy-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 # Sliding Window
 |  |
@@ -187,11 +188,13 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2650-split-with-minimum-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2650-split-with-minimum-sum) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2715-k-items-with-the-maximum-sum) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 # Two Pointers
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0455-assign-cookies) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2816-lexicographically-smallest-palindrome) |
 # Counting Sort
 |  |
 | ------- |
