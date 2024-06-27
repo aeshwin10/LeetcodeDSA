@@ -57,17 +57,20 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 # Binary Search
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1046-max-consecutive-ones-iii) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2469-longest-subsequence-with-limited-sum) |
 # Prefix Sum
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2469-longest-subsequence-with-limited-sum) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -171,6 +174,7 @@
 | [0561-array-partition](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0561-array-partition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2650-split-with-minimum-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2650-split-with-minimum-sum) |
 # Greedy
 |  |
@@ -186,6 +190,7 @@
 | [0890-lemonade-change](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0890-lemonade-change) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2650-split-with-minimum-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2650-split-with-minimum-sum) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2816-lexicographically-smallest-palindrome) |
