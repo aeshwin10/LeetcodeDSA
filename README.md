@@ -212,3 +212,10 @@
 |  |
 | ------- |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [2110-employees-with-missing-information](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2110-employees-with-missing-information) |
+<!---LeetCode Topics End-->
