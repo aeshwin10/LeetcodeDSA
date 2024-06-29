@@ -226,6 +226,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -234,4 +235,12 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0547-number-of-provinces) |
+## Array
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1036-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
