@@ -218,4 +218,20 @@
 |  |
 | ------- |
 | [2110-employees-with-missing-information](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2110-employees-with-missing-information) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
