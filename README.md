@@ -277,4 +277,9 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0127-word-ladder) |
+| [2154-minimum-moves-to-convert-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2154-minimum-moves-to-convert-string) |
+## Greedy
+|  |
+| ------- |
+| [2154-minimum-moves-to-convert-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2154-minimum-moves-to-convert-string) |
 <!---LeetCode Topics End-->
