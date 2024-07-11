@@ -252,6 +252,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0001-two-sum) |
 | [0130-surrounded-regions](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0605-can-place-flowers) |
@@ -275,6 +276,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0127-word-ladder) |
 ## String
 |  |
