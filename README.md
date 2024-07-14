@@ -261,6 +261,7 @@
 | [1036-rotting-oranges](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1073-number-of-enclaves) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [3334-apple-redistribution-into-boxes](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3334-apple-redistribution-into-boxes) |
 ## Matrix
 |  |
 | ------- |
@@ -293,6 +294,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [2154-minimum-moves-to-convert-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2154-minimum-moves-to-convert-string) |
+| [3334-apple-redistribution-into-boxes](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3334-apple-redistribution-into-boxes) |
 ## Counting
 |  |
 | ------- |
@@ -301,6 +303,7 @@
 |  |
 | ------- |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [3334-apple-redistribution-into-boxes](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3334-apple-redistribution-into-boxes) |
 ## Two Pointers
 |  |
 | ------- |
