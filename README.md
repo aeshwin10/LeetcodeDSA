@@ -261,6 +261,7 @@
 | [1036-rotting-oranges](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1073-number-of-enclaves) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3334-apple-redistribution-into-boxes](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3334-apple-redistribution-into-boxes) |
 ## Matrix
 |  |
@@ -279,6 +280,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0127-word-ladder) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2306-create-binary-tree-from-descriptions) |
 ## String
 |  |
 | ------- |
@@ -308,4 +310,12 @@
 |  |
 | ------- |
 | [0979-di-string-match](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0979-di-string-match) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
