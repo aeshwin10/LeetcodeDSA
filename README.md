@@ -305,6 +305,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [2154-minimum-moves-to-convert-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2154-minimum-moves-to-convert-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3334-apple-redistribution-into-boxes](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3334-apple-redistribution-into-boxes) |
 ## Counting
 |  |
@@ -333,4 +334,8 @@
 | [0207-course-schedule](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0820-find-eventual-safe-states) |
+## Math
+|  |
+| ------- |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 <!---LeetCode Topics End-->
