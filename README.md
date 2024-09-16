@@ -276,6 +276,7 @@
 | [0130-surrounded-regions](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -311,6 +312,7 @@
 | [0120-triangle](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0967-minimum-falling-path-sum) |
