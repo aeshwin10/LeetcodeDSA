@@ -252,6 +252,7 @@
 | [1073-number-of-enclaves](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
@@ -262,6 +263,7 @@
 | [0801-is-graph-bipartite](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
@@ -274,6 +276,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Array
 |  |
 | ------- |
