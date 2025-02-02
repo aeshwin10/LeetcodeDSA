@@ -304,6 +304,7 @@
 | [1348-maximum-score-of-spliced-array](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1348-maximum-score-of-spliced-array) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1753-path-with-minimum-effort](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3334-apple-redistribution-into-boxes](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3334-apple-redistribution-into-boxes) |
