@@ -302,6 +302,7 @@
 | [1073-number-of-enclaves](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1348-maximum-score-of-spliced-array](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1348-maximum-score-of-spliced-array) |
+| [1364-tuple-with-same-product](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1364-tuple-with-same-product) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1753-path-with-minimum-effort](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -348,6 +349,7 @@
 | [0001-two-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0127-word-ladder) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1364-tuple-with-same-product](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2306-create-binary-tree-from-descriptions) |
 ## String
@@ -375,6 +377,7 @@
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1364-tuple-with-same-product](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Sorting
 |  |
