@@ -353,6 +353,7 @@
 | [1364-tuple-with-same-product](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2434-design-a-number-container-system](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2434-design-a-number-container-system) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
@@ -423,6 +424,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
+| [2434-design-a-number-container-system](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2434-design-a-number-container-system) |
 ## Shortest Path
 |  |
 | ------- |
@@ -452,4 +454,12 @@
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
