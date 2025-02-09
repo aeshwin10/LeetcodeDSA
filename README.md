@@ -308,6 +308,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2448-count-number-of-bad-pairs](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3334-apple-redistribution-into-boxes](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3334-apple-redistribution-into-boxes) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -354,6 +355,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2434-design-a-number-container-system](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2448-count-number-of-bad-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
@@ -382,6 +384,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1364-tuple-with-same-product](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2448-count-number-of-bad-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -413,6 +416,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0062-unique-paths) |
+| [2448-count-number-of-bad-pairs](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Binary Search
 |  |
