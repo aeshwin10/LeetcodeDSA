@@ -367,6 +367,7 @@
 | [1508-longest-happy-prefix](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1508-longest-happy-prefix) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2154-minimum-moves-to-convert-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2154-minimum-moves-to-convert-string) |
+| [3447-clear-digits](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -458,6 +459,7 @@
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -466,4 +468,8 @@
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2434-design-a-number-container-system) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
