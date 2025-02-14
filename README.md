@@ -303,6 +303,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1348-maximum-score-of-spliced-array](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1348-maximum-score-of-spliced-array) |
 | [1364-tuple-with-same-product](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1364-tuple-with-same-product) |
+| [1477-product-of-the-last-k-numbers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1753-path-with-minimum-effort](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -418,6 +419,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0062-unique-paths) |
+| [1477-product-of-the-last-k-numbers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Binary Search
@@ -465,6 +467,7 @@
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
@@ -475,4 +478,12 @@
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3447-clear-digits) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
