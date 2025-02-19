@@ -368,6 +368,7 @@
 | [1160-letter-tile-possibilities](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1160-letter-tile-possibilities) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1508-longest-happy-prefix](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1508-longest-happy-prefix) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2154-minimum-moves-to-convert-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2154-minimum-moves-to-convert-string) |
@@ -497,6 +498,7 @@
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
