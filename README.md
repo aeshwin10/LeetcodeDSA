@@ -233,6 +233,7 @@
 | [0820-find-eventual-safe-states](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1073-number-of-enclaves) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
@@ -253,6 +254,7 @@
 | [1036-rotting-oranges](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -355,6 +357,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1160-letter-tile-possibilities](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2107-find-unique-binary-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -411,11 +414,13 @@
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0337-house-robber-iii) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0337-house-robber-iii) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Topological Sort
 |  |
@@ -477,6 +482,7 @@
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
