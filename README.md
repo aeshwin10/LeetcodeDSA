@@ -233,6 +233,7 @@
 | [0820-find-eventual-safe-states](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1073-number-of-enclaves) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -373,6 +374,7 @@
 | [0127-word-ladder](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0127-word-ladder) |
 | [0851-goat-latin](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0851-goat-latin) |
 | [0979-di-string-match](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0979-di-string-match) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1160-letter-tile-possibilities) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1508-longest-happy-prefix](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1508-longest-happy-prefix) |
@@ -417,12 +419,14 @@
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0337-house-robber-iii) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0337-house-robber-iii) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Topological Sort
