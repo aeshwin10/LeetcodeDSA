@@ -317,6 +317,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1706-min-cost-to-connect-all-points](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2107-find-unique-binary-string) |
@@ -359,6 +360,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0967-minimum-falling-path-sum) |
 | [1348-maximum-score-of-spliced-array](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1348-maximum-score-of-spliced-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Hash Table
 |  |
