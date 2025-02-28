@@ -360,6 +360,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0967-minimum-falling-path-sum) |
+| [1170-shortest-common-supersequence](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1170-shortest-common-supersequence) |
 | [1348-maximum-score-of-spliced-array](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1348-maximum-score-of-spliced-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -389,6 +390,7 @@
 | [0979-di-string-match](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0979-di-string-match) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1170-shortest-common-supersequence) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1508-longest-happy-prefix](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
