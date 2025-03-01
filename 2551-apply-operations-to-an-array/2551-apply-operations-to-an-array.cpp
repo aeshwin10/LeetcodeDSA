@@ -2,21 +2,35 @@ class Solution {
 public:
     vector<int> applyOperations(vector<int>& nums) {
         int n = nums.size();
-        for(int i = 0; i < n - 1; i++){
-            if(nums[i] == nums[i + 1]){
-                nums[i] *= 2;
-                nums[i + 1] = 0;
+        vector<int> ans;
+        int count = 0;
+        int i = 0;
+
+        bool lastChangedToZero = false;
+        while(i<n-1){
+            if(nums[i]==0){
+                count++;
+                i++;
+            }
+            else if(nums[i]==nums[i+1]){
+                if(i==n-2){
+                    lastChangedToZero = true;
+                }
+                ans.push_back(nums[i]*2);
+                count++;
+                i+=2;
+            }
+            else{
+                ans.push_back(nums[i]);
+                i++;
             }
         }
-        int nonZeroIdx = 0;
-        for (int i = 0; i < n; i++){
-            if (nums[i] != 0){
-                nums[nonZeroIdx++] = nums[i];
-            }
+        if(!lastChangedToZero){
+            ans.push_back(nums[n-1]);
         }
-        while(nonZeroIdx<n){
-            nums[nonZeroIdx++] = 0;
+        while(count--){
+            ans.push_back(0);
         }
-        return nums;
+        return ans;
     }
 };
