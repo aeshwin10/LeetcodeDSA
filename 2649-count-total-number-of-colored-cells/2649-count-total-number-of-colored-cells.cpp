@@ -10,12 +10,7 @@ public:
     }
 
     long long coloredCells(int n) {
-        if(n==1){
-            return 1;
-        }
-
-        long long ans = findSquares(n);
-        return ans;        
+        return 1 + 4LL * n * (n - 1) / 2;      
 
     }
 };
