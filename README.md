@@ -406,6 +406,7 @@
 | [2107-find-unique-binary-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2107-find-unique-binary-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2154-minimum-moves-to-convert-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3447-clear-digits](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
@@ -497,6 +498,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Combinatorics
 |  |
 | ------- |
