@@ -470,6 +470,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0062-unique-paths) |
+| [0910-nth-magical-number](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0910-nth-magical-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -482,6 +483,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0910-nth-magical-number](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0910-nth-magical-number) |
 | [1753-path-with-minimum-effort](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
