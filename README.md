@@ -334,6 +334,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3483-alternating-groups-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -499,6 +500,7 @@
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3483-alternating-groups-ii) |
 ## Combinatorics
 |  |
 | ------- |
