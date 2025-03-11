@@ -1,24 +1,19 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        map<char,int> mp;
-        int right = 0;
         int n = s.size();
-        int lefti = 10e5;
-        int ans=0;
-        
-        
+        int left = 0;
+        int ans = 0;
+        unordered_map<char, int> mp;
 
-        while(right<n){
-            mp[s[right]]=right;
-            if(mp.size()>=3){
-                for(pair<char,int> e: mp){
-                    lefti = min(lefti,e.second); 
-                }
-                ans+=lefti+1;
-                lefti=10e7;
+        for(int right = 0; right<n; right++){
+            mp[s[right]]++;
+            while(mp.size()>=3){
+                ans+=(n-right);
+                mp[s[left]]--;
+                if(mp[s[left]]==0) mp.erase(s[left]);
+                left++;
             }
-            right++;
         }
         return ans;
     }
