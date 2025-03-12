@@ -327,6 +327,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -433,6 +434,7 @@
 | [1364-tuple-with-same-product](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2448-count-number-of-bad-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -489,6 +491,7 @@
 | ------- |
 | [0910-nth-magical-number](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0910-nth-magical-number) |
 | [1753-path-with-minimum-effort](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
