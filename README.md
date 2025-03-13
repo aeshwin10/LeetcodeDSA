@@ -336,6 +336,7 @@
 | [3429-special-array-i](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3643-zero-array-transformation-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -492,6 +493,7 @@
 | [0910-nth-magical-number](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0910-nth-magical-number) |
 | [1753-path-with-minimum-effort](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3643-zero-array-transformation-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -561,6 +563,7 @@
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3643-zero-array-transformation-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3643-zero-array-transformation-ii) |
 ## Backtracking
 |  |
 | ------- |
