@@ -311,6 +311,7 @@
 | [1036-rotting-oranges](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1348-maximum-score-of-spliced-array](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1348-maximum-score-of-spliced-array) |
 | [1364-tuple-with-same-product](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1477-product-of-the-last-k-numbers) |
@@ -491,6 +492,7 @@
 |  |
 | ------- |
 | [0910-nth-magical-number](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0910-nth-magical-number) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1753-path-with-minimum-effort](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3643-zero-array-transformation-ii) |
