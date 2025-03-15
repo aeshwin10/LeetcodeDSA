@@ -329,6 +329,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -495,6 +496,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1753-path-with-minimum-effort](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3643-zero-array-transformation-ii) |
 ## Heap (Priority Queue)
 |  |
