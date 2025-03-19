@@ -341,6 +341,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3643-zero-array-transformation-ii) |
 ## Matrix
@@ -526,6 +527,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Combinatorics
@@ -577,6 +579,7 @@
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3643-zero-array-transformation-ii) |
 ## Backtracking
 |  |
@@ -603,4 +606,9 @@
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
