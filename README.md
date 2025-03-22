@@ -376,6 +376,7 @@
 | [0062-unique-paths](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0213-house-robber-ii) |
@@ -500,6 +501,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0070-climbing-stairs) |
 | [0910-nth-magical-number](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0910-nth-magical-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -624,4 +626,8 @@
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
