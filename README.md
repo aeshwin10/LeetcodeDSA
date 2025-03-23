@@ -388,6 +388,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1170-shortest-common-supersequence) |
+| [1236-n-th-tribonacci-number](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1236-n-th-tribonacci-number) |
 | [1348-maximum-score-of-spliced-array](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1348-maximum-score-of-spliced-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -505,6 +506,7 @@
 | [0070-climbing-stairs](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0070-climbing-stairs) |
 | [0910-nth-magical-number](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0910-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -633,6 +635,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
