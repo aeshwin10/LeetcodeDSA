@@ -1,40 +1,41 @@
+const int mod = 1e9+7;
+
 class Solution {
 public:
     int countPaths(int n, vector<vector<int>>& roads) {
-        
-        int mod = (1e9 + 7);
-        vector<pair<long,long>> adj[n];
-        vector<long long int> timee(n,1e18), ways(n,0);
+        vector<vector<pair<int,int>>> adj(n);
+        vector<long long> dist(n, LLONG_MAX);
 
-        for(auto it: roads){
-            adj[it[0]].push_back({it[1],it[2]});
-            adj[it[1]].push_back({it[0],it[2]});
+        for(auto &i : roads){
+            adj[i[0]].push_back({i[1], i[2]});
+            adj[i[1]].push_back({i[0], i[2]});
         }
-        //{time,node}
-        priority_queue<pair<long long,long long>, vector<pair<long long,long long>>, greater<pair<long long,long long>>> pq;
-        timee[0] = 0;
+        vector<int> ways(n, 0);
+        
+        priority_queue<pair<long long,int>, vector<pair<long long, int>>, greater<pair<long long, int>>> pq;
+        dist[0] = 0;
         ways[0] = 1;
-        pq.push({0,0});
+
+        pq.push({0, 0});
 
         while(!pq.empty()){
-            int node = pq.top().second;
-            long long time = pq.top().first;
+            auto [curDist, node] = pq.top();
             pq.pop();
 
-            for(auto it: adj[node]){
-                long long t = it.second;
-                if(t+time<timee[it.first]){
-                    timee[it.first] = t+time;
-                    pq.push({t+time,it.first});
-                    ways[it.first]=ways[node];
-                    }
-                else if(t+time==timee[it.first]){
-                    //pq.push({t+time,it.first});
-                    ways[it.first]+=ways[node] % mod; 
+            if(curDist > dist[node]) continue;
+
+            for(auto& [neighbour, weight] : adj[node]){
+                long long newDist = curDist + weight;
+                if(newDist < dist[neighbour]){
+                    dist[neighbour] = newDist;
+                    ways[neighbour] = ways[node];
+                    pq.push({newDist, neighbour});
+                }
+                else if(newDist == dist[neighbour]){
+                    ways[neighbour] = (ways[neighbour] + ways[node]) % mod;
                 }
             }
         }
-        
-        return ways[n-1] % mod;
+        return ways[n-1];
     }
 };
