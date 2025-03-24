@@ -331,6 +331,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2107-find-unique-binary-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -408,6 +409,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2107-find-unique-binary-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -602,6 +604,7 @@
 | [0731-my-calendar-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0731-my-calendar-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3643-zero-array-transformation-ii) |
 ## Backtracking
