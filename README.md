@@ -310,6 +310,7 @@
 | [0542-01-matrix](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0731-my-calendar-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -519,6 +520,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0731-my-calendar-ii) |
 | [0910-nth-magical-number](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0910-nth-magical-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1753-path-with-minimum-effort](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
@@ -575,12 +577,14 @@
 ## Design
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0731-my-calendar-ii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0731-my-calendar-ii) |
 | [2434-design-a-number-container-system](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2434-design-a-number-container-system) |
 ## Stack
 |  |
@@ -595,6 +599,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0731-my-calendar-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -640,4 +645,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1013-fibonacci-number) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
