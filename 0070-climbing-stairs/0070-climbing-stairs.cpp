@@ -15,7 +15,6 @@ public:
         if(n==1){
             return 1;
         }
-        dp[0] = 1;
         dp[1] = 1;
         dp[2] = 2;
         return Vishal(n, dp);
