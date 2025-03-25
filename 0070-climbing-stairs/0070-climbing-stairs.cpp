@@ -1,16 +1,23 @@
 class Solution {
 public:
-    int climbStairs(int n) {  //Time Complexity -> O(n). Space Complexity -> O(1)
-        if(n==1 || n==2){
-            return n;
+    int Vishal(int n, vector<int>& dp){
+        if(n==1 || n==0){
+            return dp[n];
         }
-        int a=1;
-        int b=2;
-        for(int i=3; i<=n; i++){
-            int c=a+b;
-            a = b;
-            b = c;
+        if(dp[n]!=-1){
+            return dp[n];
         }
-        return b;
+        dp[n] = Vishal(n-1, dp) + Vishal(n-2, dp);
+        return dp[n];
+    }
+    int climbStairs(int n) {  
+        vector<int> dp(n+1, -1);
+        if(n==1){
+            return 1;
+        }
+        dp[0] = 1;
+        dp[1] = 1;
+        dp[2] = 2;
+        return Vishal(n, dp);
     }
 };
