@@ -306,6 +306,7 @@
 | [0130-surrounded-regions](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0213-house-robber-ii) |
+| [0303-range-sum-query-immutable](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0605-can-place-flowers) |
@@ -593,6 +594,7 @@
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0731-my-calendar-ii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1477-product-of-the-last-k-numbers) |
@@ -615,6 +617,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0731-my-calendar-ii) |
 | [1184-car-pooling](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1184-car-pooling) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1477-product-of-the-last-k-numbers) |
