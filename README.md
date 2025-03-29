@@ -355,6 +355,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3334-apple-redistribution-into-boxes](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3334-apple-redistribution-into-boxes) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -470,6 +471,7 @@
 | [2154-minimum-moves-to-convert-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2154-minimum-moves-to-convert-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3001-apply-operations-to-maximize-score](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3334-apple-redistribution-into-boxes](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3334-apple-redistribution-into-boxes) |
 ## Counting
 |  |
@@ -490,6 +492,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3334-apple-redistribution-into-boxes](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3334-apple-redistribution-into-boxes) |
 | [3430-count-days-without-meetings](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -543,6 +546,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2649-count-total-number-of-colored-cells) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3001-apply-operations-to-maximize-score](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -622,6 +626,7 @@
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3447-clear-digits) |
 ## Data Stream
 |  |
@@ -658,6 +663,7 @@
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3001-apply-operations-to-maximize-score) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -683,4 +689,8 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0731-my-calendar-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
