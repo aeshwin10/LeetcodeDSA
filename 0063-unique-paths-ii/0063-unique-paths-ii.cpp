@@ -1,5 +1,5 @@
 class Solution {
-public:
+public: //TC - O(n*m) SC -> O(n*m)
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
         if(obstacleGrid[0][0]==1){
             return 0;
