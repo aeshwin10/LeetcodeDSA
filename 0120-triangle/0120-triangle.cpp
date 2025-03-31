@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int minimumTotal(vector<vector<int>>& triangle) {
+    int minimumTotal(vector<vector<int>>& triangle) { //TC - O(n^2) //SC - O(n+(n-1))
         int n = triangle.size();
         vector<int> dp;
         dp.push_back(triangle[0][0]);
