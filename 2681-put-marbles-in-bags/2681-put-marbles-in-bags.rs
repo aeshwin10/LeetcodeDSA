@@ -14,13 +14,13 @@ impl Solution {
 
         poss_weight.sort();
 
-        let mut min_poss = 0 as i64;
-        let mut max_poss = 0 as i64;
+        let mut min_poss = 0;
+        let mut max_poss = 0; 
         let m = poss_weight.len();
 
-        for i in 0..(k as usize -1) {  //i will 
-            min_poss += poss_weight[i] as i64;
-            max_poss += poss_weight[m-1-i] as i64;
+        for i in 0..(k as usize -1) {  //i will take the type of k.
+            min_poss += poss_weight[i] ;
+            max_poss += poss_weight[m-1-i] ;
         }
 
         max_poss - min_poss
