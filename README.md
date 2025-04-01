@@ -308,6 +308,7 @@
 | [0130-surrounded-regions](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0221-maximal-square) |
 | [0303-range-sum-query-immutable](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0542-01-matrix) |
@@ -376,6 +377,7 @@
 | [0064-minimum-path-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0130-surrounded-regions) |
+| [0221-maximal-square](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0854-making-a-large-island) |
@@ -398,6 +400,7 @@
 | [0120-triangle](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0221-maximal-square) |
 | [0337-house-robber-iii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0542-01-matrix) |
