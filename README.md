@@ -394,6 +394,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0064-minimum-path-sum) |
@@ -449,6 +450,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0005-longest-palindromic-substring) |
 | [0127-word-ladder](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0127-word-ladder) |
 | [0768-partition-labels](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0768-partition-labels) |
 | [0851-goat-latin](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0851-goat-latin) |
@@ -511,6 +513,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0005-longest-palindromic-substring) |
 | [0768-partition-labels](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0768-partition-labels) |
 | [0979-di-string-match](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0979-di-string-match) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2265-partition-array-according-to-given-pivot) |
