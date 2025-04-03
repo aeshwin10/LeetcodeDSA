@@ -359,6 +359,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3001-apply-operations-to-maximize-score) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3334-apple-redistribution-into-boxes](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3334-apple-redistribution-into-boxes) |
