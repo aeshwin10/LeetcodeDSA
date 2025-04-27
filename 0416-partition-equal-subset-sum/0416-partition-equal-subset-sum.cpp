@@ -9,7 +9,7 @@ public:
         vector<int> dp(sum+1, false);
         dp[0] = true;
 
-        for(int i=0; i<nums.size(); i++){
+        for(int i=0; i<nums.size(); i++){  //this method is little un-intuitive to solve. There is curr, and prev for space optimization solution.
             for(int j=sum; j>=nums[i]; j--){
                 dp[j] = dp[j] || dp[j-nums[i]];
             }
