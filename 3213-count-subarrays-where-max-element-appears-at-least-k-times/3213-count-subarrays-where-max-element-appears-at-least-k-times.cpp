@@ -10,7 +10,7 @@ public:
         for(int right = 0; right<n; right++){
             mp[nums[right]]++;
             while(mp[maxEle]>=k){
-                ans = ans + (n-right);
+                ans += (n-right);
                 mp[nums[left]]--;
                 if(mp[nums[left]]==0) mp.erase(nums[left]);
                 left++;
