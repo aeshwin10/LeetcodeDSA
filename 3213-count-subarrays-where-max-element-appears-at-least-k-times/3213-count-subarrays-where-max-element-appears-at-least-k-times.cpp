@@ -12,7 +12,6 @@ public:
             while(mp[maxEle]>=k){
                 ans += (n-right);
                 mp[nums[left]]--;
-                if(mp[nums[left]]==0) mp.erase(nums[left]);
                 left++;
             }
         }
