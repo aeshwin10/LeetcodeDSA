@@ -328,6 +328,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0967-minimum-falling-path-sum) |
 | [0979-di-string-match](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0979-di-string-match) |
 | [1036-rotting-oranges](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1036-rotting-oranges) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1073-number-of-enclaves](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1184-car-pooling) |
@@ -515,6 +516,7 @@
 | [0768-partition-labels](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0797-rabbits-in-forest) |
 | [0979-di-string-match](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0979-di-string-match) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [2154-minimum-moves-to-convert-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2154-minimum-moves-to-convert-string) |
