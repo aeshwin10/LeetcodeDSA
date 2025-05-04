@@ -332,6 +332,7 @@
 | [1073-number-of-enclaves](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1184-car-pooling) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1348-maximum-score-of-spliced-array](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1348-maximum-score-of-spliced-array) |
 | [1364-tuple-with-same-product](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1364-tuple-with-same-product) |
@@ -459,6 +460,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -530,6 +532,7 @@
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1364-tuple-with-same-product](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
