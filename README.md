@@ -433,6 +433,7 @@
 | [0740-delete-and-earn](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0806-domino-and-tromino-tiling](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0967-minimum-falling-path-sum) |
