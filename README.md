@@ -348,6 +348,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2048-build-array-from-permutation](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -691,6 +692,7 @@
 | ------- |
 | [1184-car-pooling](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1184-car-pooling) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2551-apply-operations-to-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
