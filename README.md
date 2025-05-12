@@ -355,6 +355,7 @@
 | [2107-find-unique-binary-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2262-solving-questions-with-brainpower) |
@@ -479,6 +480,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2107-find-unique-binary-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2107-find-unique-binary-string) |
+| [2215-finding-3-digit-even-numbers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2308-divide-array-into-equal-pairs) |
@@ -561,6 +563,7 @@
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -815,6 +818,7 @@
 | ------- |
 | [1656-count-good-triplets](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2215-finding-3-digit-even-numbers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2998-count-symmetric-integers) |
 ## Binary Indexed Tree
 |  |
