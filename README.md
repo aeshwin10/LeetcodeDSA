@@ -458,6 +458,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3637-count-number-of-balanced-permutations) |
 ## Hash Table
 |  |
@@ -497,6 +498,7 @@
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
@@ -526,6 +528,7 @@
 | [3447-clear-digits](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3637-count-number-of-balanced-permutations) |
 ## Greedy
 |  |
@@ -558,6 +561,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -644,6 +648,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3637-count-number-of-balanced-permutations) |
 ## Binary Search
 |  |
