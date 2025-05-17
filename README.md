@@ -308,6 +308,7 @@
 | [0063-unique-paths-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0198-house-robber) |
@@ -572,6 +573,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0368-largest-divisible-subset) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1184-car-pooling](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1184-car-pooling) |
@@ -591,6 +593,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0868-push-dominoes) |
 | [0979-di-string-match](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0979-di-string-match) |
