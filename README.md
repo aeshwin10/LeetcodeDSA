@@ -390,6 +390,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3334-apple-redistribution-into-boxes) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -587,6 +588,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3001-apply-operations-to-maximize-score) |
+| [3321-type-of-triangle](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3334-apple-redistribution-into-boxes) |
 | [3430-count-days-without-meetings](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -658,6 +660,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3321-type-of-triangle](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/aeshwin10/LeetcodeDSA/tree/master/3637-count-number-of-balanced-permutations) |
