@@ -4,23 +4,42 @@ public:
         int n = matrix.size();
         int m = matrix[0].size();
 
-        vector<int> rowFalse(n, 0);
-        vector<int> colFalse(m, 0);
+        bool row0 = false, col0 = false;
+
+        for(int j=0; j<m; j++){
+            if(matrix[0][j] == 0) row0 = true;
+        }
 
         for(int i=0; i<n; i++){
-            for(int j=0; j<m; j++){
+            if(matrix[i][0] == 0) col0 = true;
+        }
+
+        for(int i=1; i<n; i++){
+            for(int j=1; j<m; j++){
                 if(matrix[i][j]==0){
-                    rowFalse[i]=1;
-                    colFalse[j]=1;
+                    matrix[i][0] = 0;
+                    matrix[0][j] = 0;
                 }
             }
         }
 
-        for(int i=0; i<n; i++){
-            for(int j=0; j<m; j++){
-                if(rowFalse[i] || colFalse[j]){
+        for(int i=1; i<n; i++){
+            for(int j=1; j<m; j++){
+                if(!matrix[i][0] || !matrix[0][j]){
                     matrix[i][j]=0;
                 }
+            }
+        }
+
+        if(row0){
+            for(int i=0; i<m; i++){ 
+                matrix[0][i]=0;
+            }
+        }
+        
+        if(col0){
+            for(int i=0; i<n; i++){
+                matrix[i][0]=0;
             }
         }
     }
