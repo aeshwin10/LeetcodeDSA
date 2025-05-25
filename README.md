@@ -347,6 +347,7 @@
 | [1656-count-good-triplets](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1656-count-good-triplets) |
 | [1706-min-cost-to-connect-all-points](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -489,6 +490,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1500-count-largest-group) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2107-find-unique-binary-string](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2107-find-unique-binary-string) |
@@ -679,6 +681,7 @@
 | [0910-nth-magical-number](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0910-nth-magical-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1753-path-with-minimum-effort](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -711,6 +714,7 @@
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2478-longest-nice-subarray) |
@@ -782,6 +786,7 @@
 | [1184-car-pooling](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1184-car-pooling) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2249-count-the-hidden-sequences](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
