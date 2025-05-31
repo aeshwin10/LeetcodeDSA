@@ -258,6 +258,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -335,6 +336,7 @@
 | [0854-making-a-large-island](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0945-snakes-and-ladders](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0967-minimum-falling-path-sum) |
 | [0979-di-string-match](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0979-di-string-match) |
 | [1036-rotting-oranges](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1036-rotting-oranges) |
@@ -428,6 +430,7 @@
 | [0542-01-matrix](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1073-number-of-enclaves) |
