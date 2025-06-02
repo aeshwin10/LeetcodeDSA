@@ -319,6 +319,7 @@
 | [0075-sort-colors](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0221-maximal-square) |
@@ -564,6 +565,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0768-partition-labels) |
