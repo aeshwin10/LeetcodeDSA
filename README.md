@@ -324,6 +324,7 @@
 | [0213-house-robber-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0221-maximal-square) |
 | [0303-range-sum-query-immutable](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0542-01-matrix) |
@@ -489,6 +490,7 @@
 | [0001-two-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0127-word-ladder) |
+| [0347-top-k-frequent-elements](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0740-delete-and-earn](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0768-partition-labels) |
@@ -587,6 +589,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [1160-letter-tile-possibilities](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1297-maximum-number-of-balloons) |
@@ -604,6 +607,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0368-largest-divisible-subset) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1184-car-pooling](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1184-car-pooling) |
@@ -716,6 +720,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1184-car-pooling](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1184-car-pooling) |
@@ -834,6 +839,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2280-count-good-triplets-in-an-array) |
 ## Number Theory
@@ -896,4 +902,12 @@
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aeshwin10/LeetcodeDSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
