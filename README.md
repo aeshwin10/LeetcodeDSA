@@ -328,6 +328,7 @@
 | [0303-range-sum-query-immutable](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0368-largest-divisible-subset) |
+| [0391-perfect-rectangle](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0391-perfect-rectangle) |
 | [0416-partition-equal-subset-sum](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0605-can-place-flowers) |
@@ -913,4 +914,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
+## Line Sweep
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
