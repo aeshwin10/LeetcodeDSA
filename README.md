@@ -327,6 +327,7 @@
 | [0213-house-robber-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0221-maximal-square) |
 | [0303-range-sum-query-immutable](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0368-largest-divisible-subset) |
 | [0391-perfect-rectangle](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0391-perfect-rectangle) |
@@ -435,6 +436,7 @@
 | [0073-set-matrix-zeroes](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0221-maximal-square) |
+| [0304-range-sum-query-2d-immutable](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0854-making-a-large-island) |
@@ -795,6 +797,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0731-my-calendar-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0731-my-calendar-ii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1477-product-of-the-last-k-numbers) |
@@ -820,6 +823,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0731-my-calendar-ii](https://github.com/aeshwin10/LeetcodeDSA/tree/master/0731-my-calendar-ii) |
 | [1184-car-pooling](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1184-car-pooling) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aeshwin10/LeetcodeDSA/tree/master/1477-product-of-the-last-k-numbers) |
